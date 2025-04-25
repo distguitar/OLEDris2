@@ -1,4 +1,4 @@
-# Desktop Telemetry Display
+# OLEDris Game
 ## Hardware Requirements
 * LILYGO T-Display-S3 AMOLED ESP32-S3 with 1.91 Inch RM67162 Display TTGO Development Board Wireless Module (https://www.amazon.com/dp/B0C2T6T8YC)
 
